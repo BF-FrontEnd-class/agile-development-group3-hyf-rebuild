@@ -1,10 +1,11 @@
-# Name of project
+# Hack your future rebuild
 
-> A longer description
+> We created this website for people who are interested in studying web
+> development
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Hack your future rebuild](#hack-your-future-rebuild)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -30,10 +31,10 @@
 
 ## Technologies
 
-- Node 14.16.0
+- html
+- css
 - VSC code
-- JavaScript
-- ...
+- npm
 - ...
 
 ## Setup
@@ -66,11 +67,17 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by Hack your future
 
 ## Contact
 
-By [Name]
+| Name                                            |
+| ----------------------------------------------- |
+| [Malik](https://github.com/Abdul-MalikSardalov) |
+| [Fernando](https://github.com/FernandoYsita)    |
+| [khalid](https://github.com/karol10cano)        |
+| [Preethi](https://github.com/khalidkhan1212)    |
+| [Zahira](https://github.com/ZahiraBella)        |
 
 ## Instructions for use
 
