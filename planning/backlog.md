@@ -1,5 +1,7 @@
 # Backlog
 
+<!-- Landing -->
+
 ## Landing page
 
 ### Must-Haves
@@ -125,55 +127,7 @@
 
   - There is a footer at the bottom of the page.
 
-  <!-- About page -->
-
-## About
-
-### Must-Haves
-
-#### Logo
-
-- [ ] As an user I can find the logo
-  - _There's a logo with correct image with the main name of the page._
-
-#### Navigation bar
-
-- [ ] As an user I can navigate through three elements : Home, program,
-      volunteer, digital talent, about and apply
-  - _There's a navigation bar with the links_
-
-#### Title
-
-- [ ] As an user I can find the title ¨WHAT IS HACK YOUR FUTURE ABOUT?¨
-  - _There's is a clear title in the landing page_
-
-#### values
-
-- [ ] As an user I can easily find values
-  - _There's a short description with image_
-
-#### Mission and vision
-
-- [ ] I would like to see mission and vision
-  - There's a short description and image
-
-#### History
-
-- [ ] As an user I wan to see our story with a short description with an image
-      next to it
-  - There are a short description and image
-
-#### Our team
-
-- [ ] I want to see the people who work in hack in the company including photo,
-      name, position, email link and link to linkedln
-  - There is some information about HYW team.
-
-#### Footer
-
-- [ ] As a user I want to see the title of hack your future, the address and the
-      links of social media
-  - There is a footer.
+<!-- Volunteer Page -->
 
 ## Volunteer Page
 
@@ -206,4 +160,95 @@
   - The previous students stories makes page more complete
 
 - [ ] As an user I can some statistic about the impact
+
   - There's a main content with the text and image
+
+<!-- Digitalents page -->
+
+## Digitalents
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - There's a logo with correct image with the main name of the page
+
+#### Navigation bar
+
+- [ ] As an user I can navigate through three elements : Home, program,
+      volunteer, digital talent, about and apply
+  - There's a navigation bar with the links\_
+
+#### Information about digitalents
+
+- [ ] As a user I can find the information about digitalents
+  - There is further information about digitalents
+
+#### Digitalents offers
+
+- [ ] As a user I can find more information about digitalents,s offers
+  - There are 2 explanation about digitalents offers
+
+#### Info for whom HYW looking for
+
+- [ ] As a user I would like to see info about whom HYW are looking for with
+      button to apply
+  - There is info about whom HYW are looking for and button to apply
+
+#### Footer
+
+- [ ] As a user I want to see the footer of hack your future, the address and
+      the links of social media
+
+  - There is a footer of hack your future
+
+    <!-- About page -->
+
+## About
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
+
+#### Navigation bar
+
+- [ ] As an user I can navigate through three elements : Home, program,
+      volunteer, digital talent, about and apply
+  - _There's a navigation bar with the links_
+
+#### Title
+
+- [ ] As an user I can find the title ¨WHAT IS HACK YOUR FUTURE ABOUT?¨
+  - _There's is a clear title in the landing page_
+
+#### Values
+
+- [ ] As an user I can easily find values
+  - _There's a short description with image_
+
+#### Mission and vision
+
+- [ ] I would like to see mission and vision
+  - There's a short description and image
+
+#### History
+
+- [ ] As an user I wan to see our story with a short description with an image
+      next to it
+  - There are a short description and image
+
+#### Our team
+
+- [ ] I want to see the people who work in hack in the company including photo,
+      name, position, email link and link to linkedln
+  - There is some information about HYW team.
+
+#### Footer
+
+- [ ] As a user I want to see the title of hack your future, the address and the
+      links of social media
+  - There is a footer.
