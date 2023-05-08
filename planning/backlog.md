@@ -135,6 +135,56 @@
 
   - There is a footer at the bottom of the page.
 
+  <!-- Volunteer page -->
+
+## Volunteer Page
+
+### Must-Haves
+
+> these are necessary for basic usability
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - There's a logo with correct image with the main name of the page.
+
+#### Navigation bar
+
+- [ ] As a user, I can navigate through three elements
+  - There's a navigation bar with the links to `the program` `volunteer`
+    `digitalents`
+
+#### Title
+
+- [ ] As an user I can find the title
+  - There's is a clear title in the volunteer landing page
+
+#### Description
+
+- [ ] As an user I can easily tell what the page is all about
+  - There's a short description with the text and two's buttons
+    `join us a coach` `join as a mentor`
+
+#### Volunteers
+
+- [ ] As a user, I can see some volunteers who are already coaching in HYF
+  - There's a description of two volunteers with a photo
+
+#### Footer
+
+- [ ] As an user I can find the footer
+  - There's a footer with links to social media and information about the
+    location and name the company.
+
+### Should-Haves
+
+#### Success Stories
+
+- [ ] As an user i want to read success stories of previous graduate's
+
+  - It would be interesting to see some success stories of previous graduates to
+    motivates us
+
   <!-- About page -->
 
 ## About
@@ -181,37 +231,3 @@
 
 - [ ] As a user I want to see the title of hack your future, the address and the
       links of social media
-
-## Volunteer Page
-
-### Must-Haves
-
-- As a user I want to read short introduction about the website.
-- [ ] there is a section directly under the navbar describing information.
-
-#### Description
-
-- As a user I want to read some information why you should volunteer at Hack
-  your future.
-
-  - [ ] there is a clear information about why should volunteer at HYF
-
-- As a user i want to read some information about the coaches to have an idea
-  about the organization.
-
-  - [ ] there is a information about the coaches.
-
-#### Contact
-
-- As a user I can contact us to learn more about organization
-
-  - [ ] there is a footer with contact info
-
-### Should-Haves
-
-- As a user i want to read success stories about previous students
-
-  - [ ] the previous students stories makes page more complete
-
-- [ ] As an user I can some statistic about the impact
-- _There's a main content with the text and image_
