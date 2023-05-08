@@ -52,3 +52,48 @@
 - [ ] As a user I want to see the footer
   - _Additionally, the footer could feature links to relevant pages or
     resources_
+
+## about
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
+
+#### Navigation bar
+
+- [ ] As an user I can navigate through three elements : Home, program,
+      volunteer, digital talent, about and apply
+- _There's a navigation bar with the links_
+
+#### Title
+
+- [ ] As an user I can find the title ¨WHAT IS HACK YOUR FUTURE ABOUT?¨
+- _There's is a clear title in the landing page_
+
+#### values
+
+- [ ] As an user I can easily find values
+- _There's a short description with image_
+
+#### Mission and vision
+
+- [ ] I would like to see mission and vision
+- _There's a short description and image_
+
+#### History
+
+- [ ] As an user I wan to see our story with a short description with an image
+      next to it
+
+#### Our team
+
+- [ ] I want to see the people who work in hack in the company including photo,
+      name, position, email link and link to linkedln
+
+#### Footer
+
+- [ ] As a user I want to see the title of hack your future, the address and the
+      links of social media
