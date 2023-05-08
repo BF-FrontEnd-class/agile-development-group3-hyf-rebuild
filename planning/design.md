@@ -16,12 +16,3 @@
 
 > Include your wireframe(s) and link to wireframe
 > [Excalidraw](https://excalidraw.com/#room=61e27042cdfd7671e0a4,ior6egoRj6hUj_oQ0FFLcA)
-
-### About
-
-> ![Home](../public/hyfaboutdesing.png)
-
-## Wireframe
-
-> Include your wireframe(s) and link to wireframe
-> [Excalidraw](https://excalidraw.com/#room=d43d17186fa6966a098b,Gho64IWTnL6OXg5svDbpQg)

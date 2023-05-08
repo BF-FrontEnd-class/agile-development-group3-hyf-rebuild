@@ -97,5 +97,25 @@
   //-------- Markdown configuration --------
 
   // Enable path suggestoins while writing links in markdown files
-  "markdown.suggest.paths.enabled": true
+  "markdown.suggest.paths.enabled": true,
+  "cSpell.words": [
+    "Bilde",
+    "Christiaan",
+    "DIGITALENTS",
+    "Excalidraw",
+    "Lant",
+    "linkedln",
+    "Malik",
+    "Nepo",
+    "Ponomarev",
+    "Preethi",
+    "Promarev",
+    "Todos",
+    "Verwijs",
+    "wireframe",
+    "Wireframes",
+    "Yodiz",
+    "Zahira",
+    "Zepel"
+  ]
 }
