@@ -24,6 +24,5 @@ Project Deadline:
 
 - Code Review Checklist: The team has developed a checklist of specific criteria
   that must be met for each code review in the project repository.
-
 - Working Hours: The team has agreed to work a maximum of 8 hours per day on the
   project.
