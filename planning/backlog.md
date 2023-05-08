@@ -181,3 +181,37 @@
 
 - [ ] As a user I want to see the title of hack your future, the address and the
       links of social media
+
+## Volunteer Page
+
+### Must-Haves
+
+- As a user I want to read short introduction about the website.
+- [ ] there is a section directly under the navbar describing information.
+
+#### Description
+
+- As a user I want to read some information why you should volunteer at Hack
+  your future.
+
+  - [ ] there is a clear information about why should volunteer at HYF
+
+- As a user i want to read some information about the coaches to have an idea
+  about the organization.
+
+  - [ ] there is a information about the coaches.
+
+#### Contact
+
+- As a user I can contact us to learn more about organization
+
+  - [ ] there is a footer with contact info
+
+### Should-Haves
+
+- As a user i want to read success stories about previous students
+
+  - [ ] the previous students stories makes page more complete
+
+- [ ] As an user I can some statistic about the impact
+- _There's a main content with the text and image_
