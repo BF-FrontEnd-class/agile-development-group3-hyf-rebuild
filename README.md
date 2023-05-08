@@ -1,10 +1,11 @@
 # Hack your future rebuild
 
-> We created this website for people who are interested in studying web development
+> We created this website for people who are interested in studying web
+> development
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Hack your future rebuild](#hack-your-future-rebuild)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -69,7 +70,6 @@ Project is: _in progress_
 Project by Hack your future
 
 ## Contact
-
 
 | Name                                            |
 | ----------------------------------------------- |

@@ -1,40 +1,42 @@
 {
   "language": "en",
-  "words": ["HackYourFuture", 
-  "HackYourFutureBelgium", 
-  "Nepo",
- "Todos",
- "Malik", 
-"Preethi",
-"Zahira",
-"wireframe", 
-"Promarev",
-"Lant",
-"Yodiz",
-"Zepel",
-"Excalidraw",
-"Christiaan",
-"Wireframes",
-"Bilde",
-"Verwijs",
-"Ponomarev"
-],
   "words": [
+<<<<<<< Updated upstream
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "Nepo",
+    "Todos",
+    "Malik",
+    "Preethi",
+    "Zahira",
+    "wireframe",
+    "Promarev",
+=======
     "HackYourFutureBelgium",
     "HackYourFuture",
     "Nepo",
-    "Todos",
-    "Verwijs",
-    "Christiaan",
-    "Bilde",
-    "Wireframes",
-    "Excalidraw",
     "wireframe",
     "Ponomarev",
+>>>>>>> Stashed changes
     "Lant",
     "Yodiz",
     "Zepel",
+    "Excalidraw",
+<<<<<<< Updated upstream
+    "Christiaan",
+    "Wireframes",
+    "Bilde",
+    "Verwijs",
+    "Ponomarev",
+    "Zepel",
     "wireframe"
+=======
+    "Bilde",
+    "Christiaan",
+    "Verwijs",
+    "Todos",
+    "Wireframes"
+>>>>>>> Stashed changes
   ],
   "ignorePaths": [
     "node_modules/**",
