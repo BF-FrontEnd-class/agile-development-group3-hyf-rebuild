@@ -11,8 +11,8 @@
 
 #### Navigation bar
 
-- [ ] As an user I can navigate through those elements : THE
-      PROGRAM,VOLUNTEER,DIGITALENTS,ABOUT And SUPPORT US
+- [ ] As an user I can navigate through those elements : THE PROGRAM, VOLUNTEER,
+      DIGITALENTS, ABOUT And SUPPORT US
   - _There's a navigation bar with the links_
 
 #### Title
@@ -99,13 +99,11 @@
 
 - [ ] As a user I want to see images of technologies that I will study on the
       course.
-
   - There is a information technology images.
 
 #### About the final project
 
 - [ ] As a user I want to see information about the final project with an image.
-
   - There is information about the final project with an image.
 
 #### Future after training
