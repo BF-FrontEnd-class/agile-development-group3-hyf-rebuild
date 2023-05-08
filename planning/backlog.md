@@ -12,12 +12,10 @@
   - There's a logo with correct image with the main name of the page.\_
 
 #### Navigation bar
-- [ ] As an user I can navigate through those elements : THE
-      PROGRAM,VOLUNTEER,DIGITALENTS,ABOUT And SUPPORT US
+
 - There's a navigation bar with the links
 - [ ] As an user I can navigate through those elements : THE PROGRAM, VOLUNTEER,
       DIGITALENTS, ABOUT And SUPPORT US
-  - _There's a navigation bar with the li
 
 #### Title
 
@@ -128,12 +126,12 @@
 - [ ] As a user I want to see footer.
 
   - There is a footer at the bottom of the pages.
-  - 
-<!-- Volunteer Page -->
+  - <!-- Volunteer Page -->
 
 ## Volunteer Page
 
 ### Must-Haves
+
 #### Logo
 
 - [ ] As an user I can find the l
@@ -176,19 +174,19 @@
   - It would be interesting to see some success stories of previous graduates to
     motivates us
 
-
 <!-- Digitalents page -->
 
 ## Digitalents
 
 ### Must-Haves
-  - There's a logo with correct image with the main name of the page
+
+- There's a logo with correct image with the main name of the page
 
 #### Navigation bar
 
 - [ ] As an user I can navigate through three elements : Home, program,
       volunteer, digital talent, about and apply
-  - There's a navigation bar with the links\_
+  - There's a navigation bar with the links
 
 #### Information about digitalents
 
@@ -261,4 +259,3 @@
 
 - [ ] As a user I want to see the title of hack your future, the address and the
       links of social media.
-      
