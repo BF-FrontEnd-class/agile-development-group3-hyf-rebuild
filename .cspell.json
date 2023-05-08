@@ -21,7 +21,8 @@
     "Ponomarev",
     "Zepel",
     "wireframe",
-    "DIGITALENTS"
+    "DIGITALENTS",
+    "linkedln"
   ],
   "ignorePaths": [
     "node_modules/**",
