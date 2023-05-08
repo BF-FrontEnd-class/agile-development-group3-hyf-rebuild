@@ -21,7 +21,9 @@
     "Wireframes",
     "Yodiz",
     "Zahira",
-    "Zepel"
+    "Zepel",
+    "DIGITALENTS",
+    "linkedln"
   ],
   "ignorePaths": [
     "node_modules/**",
