@@ -8,17 +8,12 @@ Project Deadline:
 
 - The project must be completed and launched by may 12th, 2023. as a new learner
   it is difficult to finish in limited time.
-- Sometimes client is required some specific technology team is not used for it.
-- we have sometimes limitations on design and color due to client requirement.
 
 ## Internal: Involuntary
 
 - Team members have different individual skill levels
 - Team members have their different ideas about the project it may clash within
   the team.
-- Team members have other commitments outside of work that limit the amount of
-  time available to work on the project.
-- internet connectivity, may impact their ability to collaborate in real-time.
 
 ## Internal: Voluntary
 
