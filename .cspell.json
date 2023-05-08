@@ -20,7 +20,8 @@
     "Verwijs",
     "Ponomarev",
     "Zepel",
-    "wireframe"
+    "wireframe",
+    "DIGITALENTS"
   ],
   "ignorePaths": [
     "node_modules/**",

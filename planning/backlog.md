@@ -1,30 +1,54 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+## Landing page
 
-## Must-Haves
+### Must-Haves
 
-> these are necessary for basic usability
+#### Logo
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
 
-## Should-Haves
+#### Navigation bar
 
-> these will complete the user experience, but are not necessary
+- [ ] As an user I can navigate through those elements : THE
+      PROGRAM,VOLUNTEER,DIGITALENTS,ABOUT And SUPPORT US
+- _There's a navigation bar with the links_
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+#### Title
 
-## Could-Haves
+- [ ] As an user I can find the title
+- _There's is a clear title with a image on the backlog in the landing page_
 
-> would be really cool ... if there's time
+#### Program
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As an user I can easily see what the page is all about the program
+- _There's a short description with a link "discover more"_
+
+#### Impact
+
+- [ ] As an user I can some statistic about the impact
+- _There's a main content with the text and image_
+
+#### Values
+
+- [ ] As a user I want to see images with short definition
+  - _Additionally, the footer could feature links to relevant pages or
+    resources_
+
+#### SUCCESS STORIES
+
+- [ ] As an user I want to have an idea about success stories
+- _There's a description with button"discover the whole curriculum here" "Become
+  a coach"_
+
+#### Partners
+
+- [ ] As an user I want to have an idea about Partners
+- _There's a main content with the title and image_
+
+#### Footer
+
+- [ ] As a user I want to see the footer
+  - _Additionally, the footer could feature links to relevant pages or
+    resources_
