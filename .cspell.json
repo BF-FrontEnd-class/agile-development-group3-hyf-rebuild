@@ -1,7 +1,6 @@
 {
   "language": "en",
   "words": [
-<<<<<<< Updated upstream
     "HackYourFuture",
     "HackYourFutureBelgium",
     "Nepo",
@@ -11,18 +10,10 @@
     "Zahira",
     "wireframe",
     "Promarev",
-=======
-    "HackYourFutureBelgium",
-    "HackYourFuture",
-    "Nepo",
-    "wireframe",
-    "Ponomarev",
->>>>>>> Stashed changes
     "Lant",
     "Yodiz",
     "Zepel",
     "Excalidraw",
-<<<<<<< Updated upstream
     "Christiaan",
     "Wireframes",
     "Bilde",
@@ -30,13 +21,6 @@
     "Ponomarev",
     "Zepel",
     "wireframe"
-=======
-    "Bilde",
-    "Christiaan",
-    "Verwijs",
-    "Todos",
-    "Wireframes"
->>>>>>> Stashed changes
   ],
   "ignorePaths": [
     "node_modules/**",
