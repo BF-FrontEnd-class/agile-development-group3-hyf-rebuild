@@ -50,10 +50,94 @@
 #### Footer
 
 - [ ] As a user I want to see the footer
+
   - _Additionally, the footer could feature links to relevant pages or
     resources_
 
-## about
+  <!-- Program Page -->
+
+## Program Page
+
+## Must-Have
+
+> these are necessary for basic usability
+
+## Logo
+
+- [ ] As a user I want to see a the logo on the left side at the top of the page
+
+  - There is a title which includes the logo on the left side
+
+## Navigation bar
+
+- [ ] As a user I want to see navigation bar against logo
+
+  - There is a navigation bar against logo on top of the page.
+
+## Application form
+
+- [ ] As a user I want to see HYW study application form
+
+  - There is form button next to navigation bar.
+
+## Get started info
+
+- [ ] As a user I want to see information on how to get started at HYW with
+      additional links, application form and image.
+
+  - There is a information on how to get started at HYW with additional links,
+    application form and image..
+
+## Information about the requirements
+
+- [ ] As a user I want to see I want to see information about the requirements
+      for those who can study at HYW..
+
+  - There is a list of requirements for applicants.
+
+## Study plan
+
+- [ ] As a user I want to see additional information about the study plan.
+
+  - There is a link to more information about the training plan.
+
+## Technologies img
+
+- [ ] As a user I want to see images of technologies that I will study on the
+      course.
+
+  - There is a information technology images.
+
+## About the final project
+
+- [ ] As a user I want to see information about the final project with an image.
+
+  - There is information about the final project with an image.
+
+## Future after training
+
+- [ ] As a user I want to information about the future after training with an
+      image and a link to additional information
+
+  - There is a information about the future after training with an image and a
+    link to additional information.
+
+## "Career Skills Sessions"
+
+- [ ] As a user I want to see information about "Career Skills Sessions" with an
+      image.
+
+  - There is information about "Career Skills Sessions" with an image.
+
+## Footer
+
+- [ ] As a user I want to see footer.
+
+  - There is a footer at the bottom of the page.
+
+  <!-- About page -->
+
+## About
 
 ### Must-Haves
 
