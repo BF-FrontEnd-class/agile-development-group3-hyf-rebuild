@@ -11,13 +11,10 @@
 ### The Program
 
 > ![The program]()
-<<<<<<< Updated upstream
 
 ### Volunteer
 
 > ![volunteer](./volunteer.png)
-=======
->>>>>>> Stashed changes
 
 ## Wireframe(s)
 

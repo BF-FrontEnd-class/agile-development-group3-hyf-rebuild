@@ -13,7 +13,7 @@
 
 - [ ] As an user I can navigate through those elements : THE
       PROGRAM,VOLUNTEER,DIGITALENTS,ABOUT And SUPPORT US
-- _There's a navigation bar with the links_
+- There's a navigation bar with the links
 
 #### Title
 
