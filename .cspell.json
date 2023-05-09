@@ -23,7 +23,9 @@
     "Zahira",
     "Zepel",
     "DIGITALENTS",
-    "linkedln"
+    "linkedln",
+    "Extention",
+    "Tervueren"
   ],
   "ignorePaths": [
     "node_modules/**",

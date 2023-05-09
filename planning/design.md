@@ -2,7 +2,7 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design ![Home](./design.png)
+> Give an overview of your project's design ![Home](../public/image/design.png)
 
 ## Wireframe(s)
 

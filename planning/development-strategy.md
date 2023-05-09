@@ -10,7 +10,7 @@
 
 ## WIREFRAME
 
-![wireframe](./design.png)
+![wireframe](../public/image/design.png)
 
 ## Setup
 
