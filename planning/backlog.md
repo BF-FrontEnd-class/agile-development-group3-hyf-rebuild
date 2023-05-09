@@ -13,9 +13,9 @@
 
 #### Navigation bar
 
-- There's a navigation bar with the links
-- [ ] As an user I can navigate through those elements : THE PROGRAM, VOLUNTEER,
-      DIGITALENTS, ABOUT And SUPPORT US
+- [ ] There's a navigation bar with the links
+  - As an user I can navigate through those elements : THE PROGRAM, VOLUNTEER,
+    DIGITALENTS, ABOUT And SUPPORT US
 
 #### Title
 
@@ -61,8 +61,6 @@
 ## Program Page
 
 ### Must-Have
-
-> these are necessary for basic usability
 
 #### Logo
 
@@ -124,9 +122,9 @@
 #### Footer
 
 - [ ] As a user I want to see footer.
-
   - There is a footer at the bottom of the pages.
-  - <!-- Volunteer Page -->
+
+<!-- Volunteer Page -->
 
 ## Volunteer Page
 
@@ -170,7 +168,6 @@
 #### Success Stories
 
 - [ ] As an user i want to read success stories of previous graduate's
-
   - It would be interesting to see some success stories of previous graduates to
     motivates us
 
@@ -180,7 +177,8 @@
 
 ### Must-Haves
 
-- There's a logo with correct image with the main name of the page
+- [ ] As a user I can find a logo with image
+  - There's a logo with correct image with the main name of the page
 
 #### Navigation bar
 
@@ -257,5 +255,6 @@
 
 #### Footer
 
-- [ ] As a user I want to see the title of hack your future, the address and the
-      links of social media.
+- [ ] As a user I want to see the footer with the address and the links of
+      social media.
+  - There is a footer with the address and the links of social media.

@@ -2,6 +2,7 @@
 
 ## Project's design overview
 
+
 > Give an overview of your project's design
 
 ### Landing page
@@ -15,6 +16,9 @@
 ### Volunteer
 
 > ![volunteer](./voluntteer.png)
+
+> Give an overview of your project's design ![Home](./design.png)
+
 
 ## Wireframe(s)
 
