@@ -26,6 +26,7 @@
     "linkedln",
     "Extention",
     "Tervueren"
+    "volunteer"
   ],
   "ignorePaths": [
     "node_modules/**",
