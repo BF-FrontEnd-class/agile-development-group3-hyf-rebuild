@@ -1,11 +1,11 @@
 # Hack your future rebuild
 
-> We created this website for people who are interested in studying web
-> development
+> we created this website for hack your future is a non-profit volunteer
+> organization dedicated to providing code courses for refugees
 
 ## Table of contents
 
-- [Hack your future rebuild](#hack-your-future-rebuild)
+- [Name of project](#name-of-project)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
