@@ -14,8 +14,7 @@
 
 ### Volunteer
 
-> ![volunteer](./voluntteer.png) Give an overview of your project's design
-> ![Home](./design.png)
+![volunteer](./voluntteer.png)
 
 ## Wireframe(s)
 
