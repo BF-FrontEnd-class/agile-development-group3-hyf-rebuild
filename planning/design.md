@@ -2,19 +2,7 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-### Landing page
-
-> ![Home](./home-design.png)
-
-### The Program
-
-> ![The program]()
-
-### Volunteer
-
-> ![volunteer](./volunteer.png)
+> Give an overview of your project's design ![Home](./design.png)
 
 ## Wireframe(s)
 
