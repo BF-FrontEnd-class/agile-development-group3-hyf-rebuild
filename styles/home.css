@@ -710,7 +710,6 @@ svg:not(:host).svg-inline--fa {
   -webkit-box-pack: center;
   width: 100%;
   padding: 0;
-
   box-shadow: none;
   background: none;
   flex: 0 0 auto;
