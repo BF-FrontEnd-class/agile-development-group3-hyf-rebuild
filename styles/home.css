@@ -113,7 +113,7 @@
   font-size: 12px;
   line-height: 160%;
   text-decoration: none;
-  background-color: #293a7d;
+  background-color: #e8515b;
   color: white;
   font-weight: 600;
   border: 1px solid transparent;
@@ -247,7 +247,7 @@ main {
 /* title */
 
 .home-title {
-  background-image: url(../public/image/home-banner.jpeg);
+  background-image: url(../public/image/banner.png);
   background-position: center;
 }
 
@@ -316,7 +316,7 @@ main {
   align-items: center;
   font-family: "Work Sans", sans-serif;
   background-color: transparent;
-  color: rgb(74, 80, 187);
+  color: #f55f5e;
 }
 
 .program-text-button:hover {
@@ -388,7 +388,7 @@ main {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-  background-color: #293a7d;
+  background-color: #01a3b0;
   width: 30%;
   padding: 20px;
 }
@@ -441,7 +441,7 @@ main {
 
 .sc-value-div2 {
   display: flex;
-  background-color: rgb(248, 249, 252);
+  background-color: #f1f7f7;
   padding: 100px;
   flex-direction: column;
 }
@@ -600,7 +600,7 @@ svg:not(:host).svg-inline--fa {
   flex-direction: column;
   width: 40%;
   height: 100%;
-  background-color: #293a7d;
+  background-color: #01a3b0;
   padding: 50px 100px;
 }
 
@@ -725,7 +725,7 @@ svg:not(:host).svg-inline--fa {
   padding: 50px 20px;
   position: relative;
   box-shadow: none;
-  background: rgb(248, 249, 252);
+  background: #f1f7f7;
   z-index: 1;
   flex: 0 0 auto;
 }
