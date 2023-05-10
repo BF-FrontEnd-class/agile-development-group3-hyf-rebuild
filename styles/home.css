@@ -708,7 +708,6 @@ svg:not(:host).svg-inline--fa {
 .iMkGIh {
   display: flex;
   -webkit-box-pack: center;
-  justify-content: center;
   width: 100%;
   padding: 0;
   position: relative;
