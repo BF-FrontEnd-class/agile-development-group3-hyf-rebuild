@@ -1,11 +1,13 @@
 # Hack your future rebuild
 
-> we created this website for hack your future is a non-profit volunteer
-> organization dedicated to providing code courses for refugees
+> The HackYourFuture Belgium website provides information about the
+> organization, its mission and values, the courses offered by the organization,
+> and success stories of graduates. Users can also read about ways they can help
+> the organization, such as through volunteering or donations.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Hack your future rebuild](#hack-your-future-rebuild)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -23,7 +25,7 @@
 
 ## General info
 
-> A short description
+>
 
 ## Screenshots
 
