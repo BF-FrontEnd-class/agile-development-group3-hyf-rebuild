@@ -26,7 +26,12 @@
     "linkedln",
     "Extention",
     "Tervueren",
-    "volunteer"
+    "volunteer",
+    "icone",
+    "USSIA",
+    "Xjxbk",
+    "stylelint",
+    "Epitech"
   ],
   "ignorePaths": [
     "node_modules/**",

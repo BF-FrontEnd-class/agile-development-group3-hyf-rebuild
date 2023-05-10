@@ -9,5 +9,9 @@
     "not firefox <= 112",
     "not ios_saf <= 16.4",
     "not safari <= 16.4"
-  ]
+  ],
+  "hints": {
+    "disown-opener": "off",
+    "meta-charset-utf-8": "off"
+  }
 }
