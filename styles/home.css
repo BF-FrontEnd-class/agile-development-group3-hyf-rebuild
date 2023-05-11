@@ -595,7 +595,7 @@ svg:not(:host).svg-inline--fa {
 
 /* contact */
 
-.kteBfb {
+.sc-contact-div-div {
   display: flex;
   flex-direction: column;
   width: 40%;
@@ -604,7 +604,7 @@ svg:not(:host).svg-inline--fa {
   padding: 50px 100px;
 }
 
-.jsNqOO {
+.sc-contact-div-div-h1 {
   font-size: 24px;
   line-height: 140%;
   margin-bottom: 20px;
@@ -616,7 +616,7 @@ svg:not(:host).svg-inline--fa {
   max-width: none;
 }
 
-.kddLXM {
+.sc-contact-div-div-p {
   color: white;
   text-align: left;
   max-width: 500px;
@@ -629,14 +629,14 @@ svg:not(:host).svg-inline--fa {
   font-weight: 300;
 }
 
-.ivdind {
+.sc-contact-div-div-form {
   display: flex;
   flex-direction: column;
   max-width: 500px;
   align-items: flex-start;
 }
 
-.cvWXcy {
+.sc-contact-div-div-form-label {
   color: white;
   text-align: left;
   max-width: none;
@@ -649,7 +649,7 @@ svg:not(:host).svg-inline--fa {
   font-weight: 300;
 }
 
-.hPorKp {
+.sc-contact-div-div-form-input {
   border: 1px solid white;
   border-radius: 3px;
   outline: none;
@@ -659,7 +659,7 @@ svg:not(:host).svg-inline--fa {
   width: 100%;
 }
 
-.dSXyHN {
+.sc-contact-div-div-form-textarea {
   border: 1px solid white;
   border-radius: 3px;
   outline: none;
@@ -670,7 +670,7 @@ svg:not(:host).svg-inline--fa {
   width: 100%;
 }
 
-.dpUJek {
+.sc-contact-div-div-form-button {
   display: inline-flex;
   font-size: 12px;
   line-height: 160%;
@@ -691,7 +691,7 @@ svg:not(:host).svg-inline--fa {
 
 /* map */
 
-.hzPVoG {
+.sc-contact-div-div-map {
   display: flex;
   width: 60%;
   height: 100%;
@@ -700,16 +700,16 @@ svg:not(:host).svg-inline--fa {
   background-color: transparent;
 }
 
-.bWgazZ {
+.sc-contact-div-div-iframe {
   width: 100%;
   height: 100%;
 }
 
-.iMkGIh section {
+.sc-contact section {
   margin-bottom: 50px;
 }
 
-.iMkGIh {
+.sc-contact {
   display: flex;
   -webkit-box-pack: center;
   width: 100%;
@@ -922,7 +922,7 @@ donate-form-p .gNljPN {
 
 /* contact */
 
-.cbRwSA {
+.sc-contact-div {
   display: flex;
   width: 100%;
 }
