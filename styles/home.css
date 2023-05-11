@@ -705,6 +705,10 @@ svg:not(:host).svg-inline--fa {
   height: 100%;
 }
 
+.iMkGIh section {
+  margin-bottom: 50px;
+}
+
 .iMkGIh {
   display: flex;
   -webkit-box-pack: center;
