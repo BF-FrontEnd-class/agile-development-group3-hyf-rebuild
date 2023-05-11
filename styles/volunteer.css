@@ -1,3 +1,5 @@
+/* stylelint-disable comment-whitespace-inside */
+
 .main-content {
   display: flex;
   flex: 1 0 auto;
@@ -33,6 +35,40 @@
 }
 
 .volunteer-description {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280%;
+  padding: 10 0;
+  margin: 0 auto;
+}
+
+.volunteer-title {
+  font-size: 36px;
+  line-height: 120%;
+  font-weight: 700;
+  margin-top: 80px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "cursive", sans-serif;
+  color: rgb(28, 34, 148);
+  text-align: left;
+}
+
+.volunteer-title h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 1px;
+  margin-inline-end: 1px;
+  font-weight: bold;
+}
+
+/* Description button */
+.description-btn {
   border: 0;
   box-sizing: border-box;
   font-family: sans-serif;
@@ -42,15 +78,75 @@
   padding: 0;
   text-decoration: none;
   vertical-align: baseline;
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.volunteer-title {
-  font-size: 36px;
-  line-height: 120%;
-  margin-bottom: 20px;
+.btn-coach,
+.btn-mentor {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
   text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
   font-family: "Work Sans", sans-serif;
-  font-weight: 700;
-  color: rgb(28, 34, 148);
-  text-align: left;
+  margin-left: 5px;
+}
+
+/* description */
+.description-content {
+  color: rgb(45, 48, 55);
+  text-align: center;
+  max-width: 550px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0;
+  padding: 30px;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+/*volunteer-perspective*/
+
+.volunteer-perspective {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: baseline;
+  padding: 45px;
+  background: rgb(248, 249, 252);
+  height: fit-content;
+}
+
+.volunteer-perspective h2,
+b {
+  color: rgb(41, 51, 240);
+}
+
+.volunteer-description-perspective {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+
+.volunteer-description-perspective div {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  font: 16px "space mono", monospace;
+}
+
+.volunteer-description-perspective img {
+  margin: 10px 40px 0 0;
 }
