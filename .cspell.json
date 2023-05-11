@@ -38,7 +38,8 @@
     "Zmpr",
     "WBCPL",
     "Hoktx",
-    "Bbxt"
+    "Bbxt",
+    "parner"
   ],
   "ignorePaths": [
     "node_modules/**",
