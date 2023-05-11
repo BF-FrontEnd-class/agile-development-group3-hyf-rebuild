@@ -15,18 +15,19 @@
     "Ponomarev",
     "Preethi",
     "Promarev",
+    "stylelint",
     "Todos",
     "Verwijs",
+    "volunteer",
     "wireframe",
     "Wireframes",
     "Yodiz",
     "Zahira",
     "Zepel",
-    "DIGITALENTS",
-    "linkedln",
+    "ANTWERPEN",
     "Extention",
     "Tervueren",
-    "volunteer"
+    "voluntteer"
   ],
   "ignorePaths": [
     "node_modules/**",
