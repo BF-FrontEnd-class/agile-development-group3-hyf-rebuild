@@ -1055,7 +1055,7 @@ ul {
 }
 
 @media screen and (max-width: 320px) {
-   .header-navbar {
+  .header-navbar {
     background-color: #fff;
     display: flex;
     width: 100%;
@@ -1077,7 +1077,7 @@ ul {
   }
 
   .section-div__img img {
-     margin-right: -9px !important;
+    margin-right: -9px !important;
     position: absolute;
     top: 0px;
     right: -11px;
