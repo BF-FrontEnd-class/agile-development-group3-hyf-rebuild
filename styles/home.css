@@ -282,6 +282,7 @@ main {
   display: flex;
   padding: 50px 20px;
   justify-content: space-between;
+  background-color: white;
 }
 
 .program-text h2 {
@@ -573,7 +574,7 @@ svg:not(:host).svg-inline--fa {
 }
 
 .img-partners > img {
-  width: 10rem;
+  width: 8rem;
 }
 
 /* our partner */
@@ -592,7 +593,7 @@ svg:not(:host).svg-inline--fa {
 }
 
 .sc-value-h3-div-img > img {
-  width: 5rem;
+  width: 10rem;
 }
 
 .sc-value-h3-div-img .flex {
