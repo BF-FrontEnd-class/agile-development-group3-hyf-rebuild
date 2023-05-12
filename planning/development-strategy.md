@@ -61,9 +61,9 @@
 
 - add `h1`
 
-### Description
+### program Description
 
-- As a user I can easily tell what the page is all about
+- As a user I can easily tell what the program of the training with image
 
 #### html
 
@@ -131,7 +131,15 @@
 
 ### values
 
-- As a user I want to have an idea about values l
+- As a user I want to have an idea about hyf values
+
+#### html
+
+- add `img`
+
+### partner
+
+- As a user I want to have an idea about hyf partners
 
 #### html
 
