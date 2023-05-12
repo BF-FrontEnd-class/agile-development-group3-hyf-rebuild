@@ -39,7 +39,9 @@
     "WBCPL",
     "Hoktx",
     "Bbxt",
-    "parner"
+    "parner",
+    "leng",
+    "tagz"
   ],
   "ignorePaths": [
     "node_modules/**",
