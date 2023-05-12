@@ -10,6 +10,72 @@
   box-sizing: border-box;
 }
 
+.donate-form span {
+  color: #293a7d;
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.tab span {
+  position: relative;
+  font-family: "Work Sans", sans-serif;
+}
+
+.home-title-style {
+  overflow: hidden;
+}
+
+.home-title-style h1 span {
+  display: inline-block;
+  opacity: 0;
+  animation: word-fade-in 0.5s ease-in-out forwards;
+}
+
+@keyframes word-fade-in {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.home-title-style h1 span:nth-child(1) {
+  animation-delay: 0.5s;
+}
+
+.home-title-style h1 span:nth-child(2) {
+  animation-delay: 1s;
+}
+
+.home-title-style h1 span:nth-child(3) {
+  animation-delay: 1.5s;
+}
+
+.home-title-style h1 span:nth-child(4) {
+  animation-delay: 2s;
+}
+
+.home-title-style h1 span:nth-child(5) {
+  animation-delay: 2.5s;
+}
+
+.home-title-style h1 span:nth-child(6) {
+  animation-delay: 3s;
+}
+
+.home-title-style h1 span:nth-child(7) {
+  animation-delay: 3.5s;
+}
+
 /* header */
 
 .header {
@@ -98,11 +164,6 @@
   -webkit-box-flex: 1;
   flex-grow: 1;
   flex-direction: row;
-}
-
-.tab span {
-  position: relative;
-  font-family: "Work Sans", sans-serif;
 }
 
 .tab {
@@ -313,7 +374,7 @@ main {
 
 .program-text-button {
   display: inline-flex;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 160%;
   text-decoration: none;
   font-weight: 600;
@@ -856,19 +917,6 @@ svg:not(:host).svg-inline--fa {
 }
 
 .donate-form-p {
-  color: #293a7d;
-  text-align: left;
-  max-width: none;
-  line-height: 160%;
-  font-size: 16px;
-  font-family: "Work Sans", sans-serif;
-  margin: 0;
-  white-space: pre-wrap;
-  word-break: break-word;
-  font-weight: 300;
-}
-
-.donate-form span {
   color: #293a7d;
   text-align: left;
   max-width: none;
