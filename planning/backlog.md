@@ -255,6 +255,43 @@
 
 #### Footer
 
-- [ ] As a user I want to see the footer with the address and the links of
-      social media.
-  - There is a footer with the address and the links of social media.
+- [ ] As a user I want to see the title of hack your future, the address and the
+    links of social media
+<!-- Degitalents -->
+
+## digitalents
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
+
+#### Navigation bar
+
+- [ ] As an user I can navigate through three elements : Home, program,
+      volunteer, digital talent, about and apply
+- _There's a navigation bar with the links_
+
+#### Information about digitalents
+
+- [ ] As a user I can find the information about digitalents
+- \_there is further information about digitalents
+
+#### Digitalent,s offers
+
+- [ ] As a user I can find more information about digitalents,s offers
+- There are 2 explanation about digitalents offers
+
+#### Info for whom HYW looking for
+
+- [ ] As a user I would like to see info about whom HYW are looking for with
+      button to apply
+- There is info about whom HYW are looking for and button to apply
+
+#### Footer
+
+- [ ] As a user I want to see the title of hack your future, the address and the
+      links of social media
+- There is a footer
