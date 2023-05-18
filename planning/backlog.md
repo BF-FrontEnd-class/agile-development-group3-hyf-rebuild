@@ -38,23 +38,41 @@
   - _Additionally, the footer could feature links to relevant pages or
     resources_
 
-#### Success stories
-
-- [ ] As an user I want to have an idea about success stories
-  - _There's a description with button"discover the whole curriculum here"
-    "Become a coach"_
-
-#### Partners
-
-- [ ] As an user I want to have an idea about Partners
-  - _There's a main content with the title and image_
-
 #### Footer
 
 - [ ] As a user I want to see the footer
 
   - _Additionally, the footer could feature links to relevant pages or
     resources_
+
+### should-Haves
+
+#### Partners
+
+- [ ] As an user I want to have an idea about Partners
+
+  - _There's a main content with the title and image_
+
+#### support
+
+- [ ] As an user I want to have an idea about support
+
+  - _There's a description with form_
+
+### could-Haves
+
+#### Success stories
+
+- [ ] As an user I want to have an idea about success stories
+  - _There's a description with button"discover the whole curriculum here"
+    "Become a coach"_
+
+#### contact and map
+
+- [ ] As an user I want to have an idea about success stories
+
+  - _There's a description with button"discover the whole curriculum here"
+    "Become a coach"_
 
   <!-- Program Page -->
 

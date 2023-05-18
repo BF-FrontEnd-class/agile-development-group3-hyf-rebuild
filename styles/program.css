@@ -1,0 +1,1130 @@
+/* logo */
+
+.navbar-logo {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  height: 60%;
+}
+
+.header-logo {
+  -webkit-box-align: center;
+  align-items: center;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-flex: 0;
+  height: 100%;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: 1280px;
+  width: 100%;
+  z-index: 0;
+  position: static;
+  background: none 0% 0% / auto transparent;
+  flex: 0 1 100%;
+  margin: auto;
+  padding: 0;
+}
+
+/* stylelint-disable length-zero-no-unit */
+.section {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.section-div {
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+}
+
+.section-div__text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  z-index: 2;
+  max-width: 45%;
+}
+
+.section-div__text-h1 {
+  font-size: 36px;
+  line-height: 120%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  color: #293a7d;
+  font-family: "Work Sans", sans-serif;
+}
+
+.section-div__text-p1 {
+  line-height: 160%;
+  font-family: "Space Mono", monospace;
+  margin: 10px 0px;
+}
+
+.section-div__text-p1 > b {
+  display: inline;
+  color: #293a7d;
+  font-weight: bold;
+  /* stylelint-disable-next-line CssSyntaxError */
+  font-family: "Space Mono", monospace;
+}
+
+.section-div__text-p2 {
+  text-decoration: underline;
+  color: #293a7d;
+  line-height: 160%;
+  font-family: "Space Mono", monospace;
+  margin: 10px 0px;
+  text-align: left;
+}
+
+.section-div__text-p3 {
+  text-decoration: underline;
+  color: #293a7d;
+  line-height: 160%;
+  font-family: "Space Mono", monospace;
+  margin: 10px 0px;
+  text-align: left;
+}
+
+.section-div__text-button {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: #f55f5e;
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+.section-div__img img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 50%;
+  height: 70%;
+  z-index: 1;
+  margin-top: 90px;
+  margin-right: 24px;
+}
+
+/* sectionApply */
+.sectionApply {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: #f1f7f7;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.sectionApply-div {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+
+.sectionApply-div__box {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.sectionApply-div__box-title {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.sectionApply-div__box-main {
+  display: flex;
+}
+
+.sectionApply-div__box-main-textBox {
+  padding-right: 100px;
+  width: 45%;
+}
+
+.sectionApply-div__box-main-ul > li {
+  display: flex;
+  flex-direction: row;
+}
+
+.item-1 {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: normal;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.item-1 .sectionApply-div__box-main-ul p {
+  margin-left: 10px;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.sectionApply-div__box-main-ul-li {
+  position: relative;
+  padding-left: 30px;
+  margin: 3px 0px;
+}
+
+.sectionApply-div__box-main-textBox-p,
+.item-1,
+.item-2,
+.item-3,
+.item-4,
+.item-5,
+.item-6 {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: normal;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.item-1 > b {
+  display: inline;
+  color: #293a7d;
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
+
+.item-2 > b {
+  display: inline;
+  color: #293a7d;
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
+
+.item-3 > b {
+  display: inline;
+  color: #293a7d;
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
+
+.item-4 > b {
+  display: inline;
+  color: #293a7d;
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
+
+.item-5 > b {
+  display: inline;
+  color: #293a7d;
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
+
+.item-6 > b {
+  display: inline;
+  color: #293a7d;
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
+
+.sectionApply-div__box-main-ul-li::after {
+  content: "";
+  display: block;
+  width: 25px;
+  height: 25px;
+  border: 2px solid #293a7d;
+  border-radius: 100%;
+  position: absolute;
+  top: 0px;
+  left: -4px;
+}
+
+.p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+.ul {
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+/* month */
+.sectionMonth {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.sectionMonth-div {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+
+.sectionMonth-div__box {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+.sectionMonth-div__box-program {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 350px;
+}
+
+.sectionMonth-div__box-program-title {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.sectionMonth-div__box-program-title-btn1 {
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-flex: 0;
+  height: auto;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: 0;
+  position: static;
+  background: none 0% 0% / auto transparent;
+  flex: 0 1 100%;
+  margin: 10px 0px;
+  padding: 0px;
+}
+
+.sectionMonth-div__box-program-title-btn1-link {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: #01a3b0;
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+.sectionMonth-div__box-program-title-btn2 {
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-flex: 0;
+  height: auto;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: 0;
+  position: static;
+  background: none 0% 0% / auto transparent;
+  flex: 0 1 100%;
+  margin: 10px 0px;
+  padding: 0px;
+}
+
+.sectionMonth-div__box-program-title-btn2-link {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: #01a3b0;
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+.sectionMonth-div__box-leng {
+  display: flex;
+  -webkit-box-pack: end;
+  justify-content: flex-end;
+  max-width: 600px;
+  flex-wrap: wrap;
+}
+
+.sectionMonth-div__box-leng-icon {
+  -webkit-box-align: center;
+  align-items: center;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-flex: 0;
+  height: 150px;
+  -webkit-box-pack: center;
+  justify-content: center;
+  max-height: none;
+  max-width: none;
+  width: 200px;
+  z-index: 0;
+  position: static;
+  background: none 0% 0% / auto transparent;
+  flex: 0 1 200px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.sectionMonth-div__box-leng-icon-design {
+  width: 65px;
+  height: 60px;
+  object-fit: fill;
+  border-radius: 0px;
+}
+
+.sectionMonth-div__box-leng-name {
+  color: rgb(28, 34, 148);
+  text-align: center;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  margin: 10px 0px 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+/* final project */
+.sectionFinal {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.sectionFinal-div {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+
+.sectionFinal-div__box {
+  width: 100%;
+  display: flex;
+  margin: 50px 0px;
+}
+
+.sectionFinal-div__box-text {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  padding: 0px 50px 0px 0px;
+  width: 50%;
+  order: 1;
+  transform: translateY(-56px);
+}
+
+.sectionFinal-div__box-text-title {
+  font-size: 20px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.sectionFinal-div__box-text-miniTitle {
+  font-size: 20px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: none;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.sectionFinal-div__box-text-mainText {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: 470px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: normal;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.sectionFinal-div__box-text-btn {
+  display: inline-flex;
+  font-size: 15px;
+  line-height: 160%;
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 0px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+  background-color: transparent;
+  color: #01a3b0;
+}
+
+.sectionFinal-div__box-photo {
+  display: flex;
+  width: 50%;
+  height: 100%;
+  min-height: 400px;
+  order: 2;
+  padding: 0px 0px 0px 50px;
+  -webkit-box-align: stretch;
+  align-items: stretch;
+}
+
+.sectionFinal-div__box-img {
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-flex: 0;
+  height: 100%;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: auto;
+  position: relative;
+  background: url("https://hackyourfuturebelgium.be/static/bootcamp-dec8e579024c134c2a8b3ff78be9e413.jpg")
+    0% 0% / cover transparent;
+  flex: 0 1 100%;
+  margin: 0px;
+  padding: 0px;
+  min-height: 300px;
+}
+
+/* mentorship */
+
+.sectionMentorship {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.sectionMentorship-div {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+
+.sectionMentorship-div__box {
+  width: 100%;
+  display: flex;
+  margin: 50px 0px;
+}
+
+.sectionMentorship-div__box-text {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px 50px;
+  width: 50%;
+  order: 2;
+}
+
+.sectionMentorship-div__box-text-title {
+  font-size: 20px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: none;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.sectionMentorship-div__box-text-p {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: 470px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: normal;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.sectionMentorship-div__box-text-btn {
+  display: inline-flex;
+  font-size: 15px;
+  line-height: 160%;
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 0px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+  background-color: transparent;
+  color: #01a3b0;
+}
+
+.sectionMentorship-div__box-text-photo {
+  display: flex;
+  width: 50%;
+  height: 100%;
+  min-height: 400px;
+  order: 1;
+  padding: 0px 50px 0px 0px;
+  -webkit-box-align: stretch;
+  align-items: stretch;
+}
+
+.sectionMentorship-div__box-text-photo-img {
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-flex: 0;
+  height: 100%;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: auto;
+  position: relative;
+  background: url("https://hackyourfuturebelgium.be/static/mentorship-4bb095060b0f9bbd4db720e3d5f1660f.jpg")
+    0% 0% / cover transparent;
+  flex: 0 1 100%;
+  margin: 0px;
+  padding: 0px;
+  min-height: 300px;
+}
+
+/* Skills */
+
+.sectionSkills {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.sectionSkills-div {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+
+.sectionSkills-div__box {
+  width: 100%;
+  display: flex;
+  margin: 50px 0px;
+}
+
+.sectionSkills-div__box-text {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  padding: 0px 50px 0px 0px;
+  width: 50%;
+  order: 1;
+}
+
+.sectionSkills-div__box-text-title {
+  font-size: 20px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: none;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.sectionSkills-div__box-text-p {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: 470px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: normal;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.sectionSkills-div__box-photo {
+  display: flex;
+  width: 50%;
+  height: 100%;
+  min-height: 400px;
+  order: 2;
+  padding: 0px 0px 0px 50px;
+  -webkit-box-align: stretch;
+  align-items: stretch;
+}
+
+.sectionSkills-div__box-photo-img {
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-flex: 0;
+  height: 100%;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: auto;
+  position: relative;
+  background: url("https://hackyourfuturebelgium.be/static/hack-the-talk-7a50ec43325ab0680367e46b244aa6c3.jpg")
+    0% 0% / cover transparent;
+  flex: 0 1 100%;
+  margin: 0px;
+  padding: 0px;
+  min-height: 300px;
+}
+
+@media screen and (max-width: 1024px) {
+  .logo {
+    width: 95%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .section-div__img img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 50%;
+    height: 55%;
+    z-index: 1;
+    margin-top: 249px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .section-div__img img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 50%;
+    height: 25%;
+    z-index: 1;
+    margin-top: 249px;
+    margin-top: 335px;
+  }
+
+  .sectionApply-div__box-title {
+    font-size: 24px;
+    line-height: 140%;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 700;
+    color: rgb(28, 34, 148);
+    text-align: left;
+    max-width: none;
+    margin-left: 70px;
+  }
+
+  .sectionApply-div__box-main-textBox {
+    padding-right: 100px;
+    width: 199%;
+  }
+
+  .sectionFinal-div__box-photo {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    min-height: 400px;
+    order: 2;
+    padding: 0px 0px 0px 50px;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+  }
+
+  .sectionFinal-div__box-img {
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    box-shadow: none;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-flex: 0;
+    height: 30%;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    max-height: none;
+    max-width: none;
+    width: 100%;
+    z-index: auto;
+    position: relative;
+    background: url("https://hackyourfuturebelgium.be/static/bootcamp-dec8e579024c134c2a8b3ff78be9e413.jpg")
+      0% 0% / cover transparent;
+    flex: 0 1 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .sectionMentorship-div__box-text-photo-img {
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    box-shadow: none;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-flex: 0;
+    height: 23%;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    max-height: none;
+    max-width: none;
+    width: 100%;
+    z-index: auto;
+    position: relative;
+    background: url("https://hackyourfuturebelgium.be/static/mentorship-4bb095060b0f9bbd4db720e3d5f1660f.jpg")
+      0% 0% / cover transparent;
+    flex: 0 1 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .sectionSkills-div__box-photo-img {
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    box-shadow: none;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-flex: 0;
+    height: 21%;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    max-height: none;
+    max-width: none;
+    width: 100%;
+    z-index: auto;
+    position: relative;
+    background: url("https://hackyourfuturebelgium.be/static/hack-the-talk-7a50ec43325ab0680367e46b244aa6c3.jpg")
+      0% 0% / cover transparent;
+    flex: 0 1 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .navbar-button {
+    font-size: 10px;
+    float: right;
+    margin-right: 15px;
+  }
+
+  .tab {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    color: rgb(69 67 67);
+    font-size: 12px;
+    line-height: 160%;
+    text-transform: uppercase;
+    padding: 0px 5px;
+    font-family: "Work Sans", sans-serif;
+  }
+
+  .sectionFinal-div__box-photo {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    min-height: 400px;
+    order: 2;
+    padding: 0px 0px 0px 0px;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+  }
+
+  .sectionMentorship-div__box-text {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: flex-start;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    padding: 0px 0px 0px 0px;
+    width: 50%;
+    order: 2;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header-navbar {
+    background-color: #fff;
+    display: flex;
+    width: 100%;
+    height: 85px;
+    min-height: 85px;
+    box-sizing: border-box;
+    padding: 0 0px;
+  }
+
+  .sectionMentorship-div__box-text-photo {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    min-height: 400px;
+    order: 1;
+    padding: 0px 15px 0px 0px;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+  }
+
+  .section-div__img img {
+    margin-right: -9px !important;
+    position: absolute;
+    top: 0px;
+    right: -11px;
+    width: 53%;
+    height: 12%;
+    z-index: 1;
+    margin-top: 249px;
+    margin-top: 340px;
+  }
+
+  .sectionFinal-div__box-text {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: flex-start;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    padding: 0px 0px 0px 0px;
+    width: 50%;
+    order: 1;
+  }
+
+  .sectionSkills-div__box-photo {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    min-height: 400px;
+    order: 2;
+    padding: 0px 0px 0px 0px;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+  }
+
+  .sectionSkills-div__box-text {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: flex-start;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    padding: 0px 0px 0px 0px;
+    width: 55%;
+    order: 1;
+  }
+
+  .sectionApply-div__box-main-textBox {
+    padding-right: 15px;
+    width: 199%;
+  }
+}
