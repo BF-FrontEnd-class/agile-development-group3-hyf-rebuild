@@ -27,7 +27,7 @@
     "ANTWERPEN",
     "Extention",
     "Tervueren",
-    "volunteer",
+    "Epitech",
     "Epitech",
     "icone",
     "USSIA",
@@ -43,8 +43,7 @@
     "leng",
     "tagz",
     "Jlab",
-    "fsss",
-    ""
+    "fsss"
   ],
   "ignorePaths": [
     "node_modules/**",
